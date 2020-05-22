@@ -15,7 +15,7 @@ This game is a web based dungeon crawler game. As you visit new websites, there 
 
 Use the `arrow` keys to move the player. Left click to attack and right click to use your special. 
 
-## Features:
+## To-Do List:
 
 - [ ] Find a suitable game engine or language to write the game in
 - [ ] Design an algorithm that will randomly generate a map for each website
