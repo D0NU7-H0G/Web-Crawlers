@@ -33,4 +33,4 @@ Any and all contributions to this project are welcome. This game is currently in
 
 ## Thanks to...
 
-- Jbrahams33 for the base game suggestion. [You can find his post by clicking here] (https://www.reddit.com/r/gameideas/comments/go52bi/rpg_browser_extension_dungeon_crawl_through_the/)
+- [Jbrahams33](https://www.reddit.com/r/gameideas/comments/go52bi/rpg_browser_extension_dungeon_crawl_through_the/) for the base idea that inspired me to further develop this idea.
