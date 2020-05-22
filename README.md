@@ -26,3 +26,11 @@ Use the `arrow` keys to move the player. Left click to attack and right click to
 - [ ] Audio
 - [ ] Documentation
 - [ ] Final tests
+
+## Contributions:
+
+Any and all contributions to this project are welcome. This game is currently in an "Ideas" stage and we would appreciate any feedback.
+
+## Thanks to...
+
+- Jbrahams33 for the base game suggestion. [You can find his post by clicking here] (https://www.reddit.com/r/gameideas/comments/go52bi/rpg_browser_extension_dungeon_crawl_through_the/)
