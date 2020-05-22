@@ -3,7 +3,7 @@
 
 A RPG/Dungeon crawler that will be made with either Java, HTML5, CSS3 or JavaScript
 
-This is my first attempt at a browser extension game (I did write a basic game in python some time back). Through this project, I aim to get better at coding in the chosen language and start learning browser game development in general.
+This is my first attempt at a browser extension game (I did write a basic game i JavaScript and godot some time back). Through this project, I aim to get better at coding in the chosen language and start learning browser game development in general.
 
 This game is currently in development, and there is still quite a bit to be done before it becomes fully playable. Once this game is released, I will make incremental changes a little bit at a time.
 
