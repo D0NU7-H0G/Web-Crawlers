@@ -9,7 +9,7 @@ This game is currently in development, and there is still quite a bit to be done
 
 ## Game goal
 
-This game is a web based dungeon crawler game. As you visit new websites, there is a new "room" to fight in. Each visit to that website earns the owner of that website some gold. When you visit a website that another person owns, you can steal it from them - if you beat them of course. Gold can be used to buy new defences, health potions, or can be saved up to buy a big item, etc. Want to design a top down map - kind of like most .io games.
+This game is a web based dungeon crawler game. As you visit new websites, there is a new "room" to fight in. Each visit to that website earns the owner of that website some gold. When you visit a website that another person owns, you can steal it from them - if you beat them of course. Gold can be used to buy new defences, health potions, or can be saved up to buy a big item, etc. Want to design a top down map - the POV like most .io games.
 
 ## Game controls
 
