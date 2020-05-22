@@ -27,6 +27,8 @@ Use the `arrow` keys to move the player. Left click to attack and right click to
 - [ ] Documentation
 - [ ] Final tests
 
+This is also available in my project board which you can find [here](https://github.com/users/D0NU7-H0G/projects/1)
+
 ## Contributions:
 
 Any and all contributions to this project are welcome. This game is currently in an "Ideas" stage and we would appreciate any feedback.
